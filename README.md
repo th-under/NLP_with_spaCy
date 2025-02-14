@@ -1,5 +1,5 @@
 # NLP with spaCy
-Learn to know the basic NLP tool of spaCy
+Learn to know the basic NLP tools of spaCy
 
 ## Required prior knowledge
 You need to have a basic understanding of git, python, and jupyter notebooks.
