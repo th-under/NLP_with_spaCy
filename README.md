@@ -19,4 +19,4 @@ You need to have a basic understanding of git, python, and jupyter notebooks.
 ## Usage
 First start a jupyter notebook with   ```jupyter notebook```
 
-Then load the NLP_withspaCy.ipynb notebook and follow the instructions.
+Then load the NLP_with_spaCy.ipynb notebook and follow the instructions.
